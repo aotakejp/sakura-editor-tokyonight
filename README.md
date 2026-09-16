@@ -1,6 +1,6 @@
 # Sakura Editor TokyoNight Theme
 
-サクラエディタ用の **TokyoNight** カラーテーマおよび設定ファイルです。
+[サクラエディタ](https://github.com/sakura-editor/sakura)用の **TokyoNight** カラーテーマおよび設定ファイルです。V2.4.3で確認。
 
 ## 収録ファイル
 
@@ -8,7 +8,7 @@
   - **タイプ別設定** **カラー** タブ でインポートできるカラー設定ファイルです。
 - **`examples/sakura.ini`**
   - カラー設定を、タイプ別設定一覧から各タイプへ反映（使いそうなところのみ）し、ダークモード、タブ、UI等を調整した設定ファイル（履歴等の個人情報は削除済み）です。
-  - 設定フォント：**[HackGen Console NF](https://github.com/yuru7/HackGen)**
+  - 設定フォント：[HackGen Console NF](https://github.com/yuru7/HackGen)
 
 ## 導入方法
 
